@@ -32,13 +32,17 @@ A modern, fully responsive E-Commerce Shopping Website built with React.js and N
 	•💳 Payment Integration (Stripe)
 
  #Tools :
+
  
  * Frontend: React.js / Next.js + Tailwind CSS
  * State Management: useContext/ Zustand.
 * Backend: Node.js ).
 * Database: MongoDB / Firebase
 
-* Features:
+
+
+# Features:
+
 
 * ✓ Product listing with filtering/search
 * ✓ Shopping cart with quantity control
