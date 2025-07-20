@@ -17,18 +17,32 @@ bun dev
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 
-A modern, fully responsive E-Commerce Shopping Website built with React.js and Next.js, designed to provide a smooth and fast shopping experience with dynamic product pages, cart functionality, and SEO optimization.
+A modern, fully responsive E-Commerce Shopping Website built with React.js and Next.js, designed to provide a smooth and fast shopping experience with dynamic product pages, cart functionality, checkout and SEO optimization.
 
 🚀 Features
 
-	•	⚛ Built with React.js and Next.js (App Router or Pages Router)
-	•	📱 Fully responsive UI using Tailwind CSS
-	•	🛒 Add to Cart & Checkout functionality
-	•	🔍 Product Search & Filtering
-	•	🔄 Dynamic Routing for product pages
-	•	🌐 SEO optimized with SSR (Server-Side Rendering)
-	•	🔐 User Authentication (Auth0)
-	•	🧮 State Management using Context API 
-	•	💳 Payment Integration (Stripe)
+	•⚛ Built with React.js and Next.js (App Router or Pages Router)
+	•📱 Fully responsive UI using Tailwind CSS
+	•🛒 Add to Cart & Checkout functionality
+	•🔍 Product Search & Filtering
+	•🔄 Dynamic Routing for product pages
+	•🌐 SEO optimized with SSR (Server-Side Rendering)
+	•🔐 User Authentication (Auth0)
+	•🧮 State Management using Context API 
+	•💳 Payment Integration (Stripe)
+
+ #Tools :
+ 
+ * Frontend: React.js / Next.js + Tailwind CSS
+ * State Management: useContext/ Zustand.
+* Backend: Node.js ).
+* Database: MongoDB / Firebase
+
+* Features:
+
+* ✓ Product listing with filtering/search
+* ✓ Shopping cart with quantity control
+* ✓ Checkout simulation with form validation
+* ✓ Optional user login and order history
 
 
